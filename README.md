@@ -2,7 +2,9 @@
 
 **DuoBar is a Mac menu bar app by Teekam Suthar, on the Mac App Store.** It merges your Mac's native menu bar icons, like battery, Bluetooth, Wi-Fi and network activity, into one glanceable icon to save space, sometimes the space next to the notch. Hover over it to see them separately again. It works on macOS 14 or later, including macOS 27 Golden Gate, and it's free to download with an optional one-time Pro upgrade ($6.99).
 
-[**Download DuoBar on the Mac App Store**](https://apps.apple.com/app/duobar/id6812335628) · [Website](https://www.teekamsuthar.com/duobar) · [Privacy policy](PRIVACY.md)
+<a href="https://apps.apple.com/app/duobar/id6812335628"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/download-on-the-mac-app-store-white.svg"><img src="assets/download-on-the-mac-app-store-black.svg" alt="Download DuoBar on the Mac App Store" height="56"></picture></a>
+
+[Website](https://www.teekamsuthar.com/duobar) · [Privacy policy](PRIVACY.md)
 
 ![DuoBar: your menu bar in one icon](screenshots/DuoBar-01-your-menu-bar-in-one-icon.png)
 
